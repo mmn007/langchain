@@ -1,0 +1,13 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+ipykernel
+streamlit
+langchain_groq
+pypdf
+langchain-ollama
+faiss-cpu
+arxiv
+wikipedia
+duckduckgo-search

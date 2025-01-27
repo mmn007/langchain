@@ -1,0 +1,14 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+ipykernel
+streamlit
+langchain_groq
+pypdf
+langchain_chroma
+langchain_huggingface
+validators
+youtube_transcript_api
+unstructured
+pytube

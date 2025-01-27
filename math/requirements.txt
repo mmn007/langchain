@@ -1,0 +1,9 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+ipykernel
+streamlit
+langchain_groq
+wikipedia
+numexpr

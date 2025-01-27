@@ -5,6 +5,8 @@ venv
 .env
 keys.txt
 .bin
+.db
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
